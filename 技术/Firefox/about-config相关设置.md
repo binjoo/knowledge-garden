@@ -1,5 +1,5 @@
 ---
-title: about-config相关设置
+title: about:config相关设置
 ---
 
 地址栏输入`about:config`
