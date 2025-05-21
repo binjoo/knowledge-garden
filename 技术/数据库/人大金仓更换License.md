@@ -4,7 +4,6 @@ tags:
   - 数据库
   - 人大金仓
 ---
-
 1. `find -name license.dat`查看`license.dat`的所在路径；
 2. 打开[数据库授权文件](https://www.kingbase.com.cn/xzzx/index.htm)，下载所需的授权文件；
 3. 把新`license.dat`上传至服务器任意目录；
