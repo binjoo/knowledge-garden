@@ -118,3 +118,7 @@ apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docke
 systemctl enable docker
 systemctl start docker
 ```
+
+## 其他
+
+ - [华为云服务器Docker安装方法](https://mirrors.huaweicloud.com/mirrorDetail/5ea14d84b58d16ef329c5c13)
